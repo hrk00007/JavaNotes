@@ -1,8 +1,11 @@
 # JavaNotes
 
-![image](https://user-images.githubusercontent.com/67812755/106250062-2480a280-6239-11eb-8ced-5d2df8068bb1.png)
 
 ## HISTORY OF JAVA
+
+
+![image](https://user-images.githubusercontent.com/67812755/106250062-2480a280-6239-11eb-8ced-5d2df8068bb1.png)
+
 > Java creator
 
 _James Gosling, Mike Sheridan, and Patrick Naughton_ initiated the Java language project in June 1991. The small team of sun engineers called _Green Team_.
