@@ -64,3 +64,15 @@ JME - Java Micro Edition (for mobiles)
 6. Provides High Performance
 7. Interpreted
 
+## How Java Compiler Works
+1.  Whenever, a program is written in JAVA, the javac compiles it.
+    The result of the JAVA compiler is the .class file or the bytecode and not the machine native code (unlike C compiler).
+   2.  The bytecode generated is a non-executable code and needs an interpreter to execute on a machine. This interpreter is the JVM and thus the Bytecode is executed by the JVM.
+   3.  And finally program runs to give the output.
+
+![Execution with figure](https://cdncontribute.geeksforgeeks.org/wp-content/uploads/java-platform-independent.png)
+
+__Image source GeeksforGeeks__
+
+## Java's Slogan 
+> **Write once, run everytime.**
