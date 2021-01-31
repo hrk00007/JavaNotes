@@ -76,3 +76,25 @@ __Image source GeeksforGeeks__
 
 ## Java's Slogan 
 > **Write once, run everytime.**
+
+
+
+## Rules and Regulation for JAVA Programming
+
+**1. Case Sensivity :-** Java is case sensitive, which means hello and Hello would have different meaning.
+
+**2. Class Name :-** For all class names the first letter should be in Uppercase.If several words are there used to form a name of the class,each inner word's first letter should be in UpperCase.<br /> 
+**Ex:- HelloWorld.java, MyfirstClass.java**
+
+**3. Method Name:-** All methods name should start with a lowercase letter. If several words are used to form the name of the method, then each inner word's letter should be in 
+Uppercase.<br />
+**Ex:- public void sayHello(), public int getId()**
+
+**4. Program File Name:-** Name of the program file should exactly match the class name which contains main method.(if the file name and the class name do not match ,your program will not run).<br />
+**Ex:- Assume "Hello world" is the class name. Then the file name should be saved as HelloWorld.java**
+
+> Tips:
+
+**For compile --- javac HelloWorld.java**
+
+**For Run     --- java HelloWorld**
